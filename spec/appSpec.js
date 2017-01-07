@@ -1,4 +1,4 @@
-var dataTypes = require('../lib/aritGeo.js');
+var dataTypes = require('../lib/dataType.js');
 describe("Data types tests ", function() {
   describe("Case for some falsy values", function() {
 
